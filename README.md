@@ -269,9 +269,9 @@ HR_Attrition_Analysis/
 
 ## 🔷 Author:
 
-**Ekta Singh Chauhan**
+**Varun Jha**
 
-Aspiring Data Analyst
+Data Analyst
 
 Focused on building projects in:
 
