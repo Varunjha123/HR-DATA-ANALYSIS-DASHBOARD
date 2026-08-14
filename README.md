@@ -52,7 +52,7 @@
   - Dim_Satisfaction :–  Employee satisfaction and engagement metrics.
 
 
-- Dataset Link:- [HR Attrition Dataset](https://github.com/Chauhanekta21/HR_Attrition_Analysis/blob/main/HR_Attrition_Dataset/hr_attrition_raw_data.xlsx)
+- Dataset Link:- [HR Attrition Dataset](https://github.com/Varunjha123/HR-DATA-ANALYSIS-DASHBOARD/blob/main/HR_Dataset/hr_attrition_raw_data.xlsx)
 
 ---
 
@@ -78,7 +78,7 @@ Interactive Dashboard
 
 -  The project follows a Power Pivot data model connecting employee, performance, satisfaction, date, and attrition data.
 
-![Data Model](Images/data_model.png)
+![Data Model](https://github.com/Varunjha123/HR-DATA-ANALYSIS-DASHBOARD/blob/main/Images/data_model.png)
 
 ---
 
@@ -98,7 +98,7 @@ Interactive Dashboard
 -  Created in Dim_Satisfaction table
 -  Calculated as the average of four experience-related factors per employee to create a single score used for overall experience analysis through DAX measures
 
-![Calculated Columns](Images/calculated_columns.png)
+![Calculated Columns](https://github.com/Varunjha123/HR-DATA-ANALYSIS-DASHBOARD/blob/main/Images/calculated_columns.png)
 
 ---
 
@@ -115,7 +115,7 @@ Interactive Dashboard
     - Average Experience Score
     - Average Performance Rating
 
-![DAX Measures](Images/dax_measures.png)
+![DAX Measures](https://github.com/Varunjha123/HR-DATA-ANALYSIS-DASHBOARD/blob/main/Images/dax_measures.png)
 
 ---
 
